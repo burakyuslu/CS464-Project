@@ -1,3 +1,5 @@
 
 .ipynb_checkpoints/SVM-checkpoint.ipynb
 .ipynb_checkpoints/CNN-checkpoint.ipynb
+sign_mnist_test.csv
+sign_mnist_train.csv
